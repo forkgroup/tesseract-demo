@@ -45,7 +45,9 @@
         "hyperf/pool": "1.0.*",
         "hyperf/process": "1.0.*",
         "hyperf/redis": "1.0.*",
-        "hyperf/utils": "1.0.*"
+        "hyperf/task": "^1.0",
+        "hyperf/utils": "1.0.*",
+        "thiagoalessio/tesseract_ocr": "^2.7"
     },
     "require-dev": {
         "swoft/swoole-ide-helper": "^4.2",
